@@ -1,0 +1,1 @@
+This is the final project of the Maji Ndogo project with complete dashboards holding the National report detailing the labour, budgeted costs and calculated progress, Key influencers, Cost Analysis and Vendor Performance.
